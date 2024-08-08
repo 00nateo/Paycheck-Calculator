@@ -1,0 +1,21 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    align-items: center;
+    width: 100%;
+
+    .title{
+        padding: auto;
+        margin: auto;
+    }
+
+}
+
+.results{
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-size:larger;
+}
